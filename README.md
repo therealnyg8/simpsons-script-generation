@@ -1,9 +1,7 @@
 # The Simpsons Script Generation
 
 <p align="center">
-	<div class=.crop>
-		<img src = "https://github.com/therealnyg8/simpsons-script-generation/blob/master/assets/simpsons-script-generation.png?raw=true" >
-	</div>
+		<img src = "https://github.com/therealnyg8/simpsons-script-generation/blob/master/assets/simpsons-script-generation.png?raw=true">
 </p>
 
 ## Project Overview
