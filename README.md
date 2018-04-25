@@ -1,7 +1,7 @@
 # The Simpsons Script Generation
 
 <p align="center">
-![](assets/simpsons-script-generation.png)
+<img src = "https://github.com/therealnyg8/therealnyg8.github.io/blob/master/assets/images/simpsons-script-generation.png?raw=true">
 </p>
 
 ## Project Overview
