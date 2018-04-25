@@ -1,7 +1,3 @@
-[//]: # (Image References)
-
-[image1]: assets/generated_script.png "Generated Script"
-
 # The Simpsons Script Generation
 
 ## Project Overview
@@ -14,7 +10,7 @@ As mentioned, the model's architecture is based on Recurrent Neural Network cons
 
 Please note that traning the model with the given data set will most likely generat nonsensical script since it was trained only on a subset of a bigger dataset. In the example below, we can see that the model is able to generate sentences with punctuation where each sentence is attributed to a specific charecter from The Simpsons. Even though the scrpit doesn't make so much sense, it is very entertaining to read :)
 
-<div style="text-align:center">![Generated Script][image1]</div>
+<div style="text-align:center">![Generated Script](assets/generated_script.png)</div>
 
 ## Project Instructions
 
