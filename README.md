@@ -1,6 +1,10 @@
+[//]: # (Image References)
+
 [image1]: ./assets/generated_script.png "Generated Script"
 
 # The Simpsons Script Generation
+
+## Project Overview
 
 In this project, I completed a jupyter notebook as a part of Udacity's Deep Learning Nanodegree. The code in the notebook allows the generation of your own Simpsons TV scripts using Recurrent Neural Networks.
 
@@ -11,6 +15,10 @@ As mentioned, the model's architecture is based on Recurrent Neural Network cons
 Please note that traning the model with the given data set will most likely generat nonsensical script since it was trained only on a subset of a bigger dataset . In the example below, we can see that the model is able to generate sentences with punctuation where each sentence is attributed to a specific charecter from The Simpsons. Even though the scrpit doesn't make so much sense, it is very entertaining to read :)
 
 <div style="text-align:center">![Generated Script][image1]</div>
+
+## Project Instructions
+
+### Instructions
 
 In order to train the model and generate a new TV script, run all cells in the notebook. I recommened you use a GPU when training the Network.
 
